@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/sping_1.0" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_2.0" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/prototypingAndConstruction/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamicProxyDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/adapterDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/delegateAndtemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/strategy-chain/pom.xml" />
+        <option value="$PROJECT_DIR$/iterator-command/pom.xml" />
+        <option value="$PROJECT_DIR$/state-memorandum/pom.xml" />
+        <option value="$PROJECT_DIR$/mediation-interpreter/pom.xml" />
+        <option value="$PROJECT_DIR$/observer-visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/sping_1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_source_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-2.0-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-2.0-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-standalone/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+</project>

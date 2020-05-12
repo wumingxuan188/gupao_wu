@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="state-memorandum" />
+        <module name="gupaoedu-vip-spring-orm" />
+        <module name="spring_source_demo" />
+        <module name="spring-mybatis" />
+        <module name="mybatis-standalone" />
+        <module name="prototypingAndConstruction" />
+        <module name="sping_1.0" />
+        <module name="gupaoedu-vip-spring-annotation" />
+        <module name="observer-visitor" />
+        <module name="bootDemo" />
+        <module name="delegateAndtemplate" />
+        <module name="strategy-chain" />
+        <module name="mediation-interpreter" />
+        <module name="iterator-command" />
+        <module name="gupaoedu-vip-spring-aop" />
+        <module name="spring_2.0" />
+        <module name="gupaoedu-vip-spring" />
+        <module name="adapterDemo" />
+        <module name="dynamicProxyDemo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bootDemo" options="-parameters" />
+      <module name="gupaoedu-vip-spring" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="gupaoedu-vip-spring-annotation" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="gupaoedu-vip-spring-aop" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="gupaoedu-vip-spring-orm" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="sping_1.0" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="spring_2.0" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="state-memorandum" options="-parameters" />
+    </option>
+  </component>
+</project>
