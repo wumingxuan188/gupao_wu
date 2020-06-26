@@ -32,7 +32,19 @@
         <option value="$PROJECT_DIR$/gupaoedu-vip-spring-2.0/pom.xml" />
         <option value="$PROJECT_DIR$/spring-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-thread-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc_server_api/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc_server_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc_client/pom.xml" />
+        <option value="$PROJECT_DIR$/my_core_app/pom.xml" />
+        <option value="$PROJECT_DIR$/my_spring_boot_demo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/adapter/server_api/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />

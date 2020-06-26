@@ -11,32 +11,44 @@
         <module name="gupaoedu-vip-spring-orm" />
         <module name="spring_source_demo" />
         <module name="spring-mybatis" />
+        <module name="strategy-chain" />
+        <module name="rpc_server_api" />
         <module name="mybatis-standalone" />
         <module name="prototypingAndConstruction" />
-        <module name="sping_1.0" />
-        <module name="gupaoedu-vip-spring-annotation" />
-        <module name="observer-visitor" />
+        <module name="gupaoedu-vip-spring-aop" />
+        <module name="rpc_server_provider" />
+        <module name="my_spring_boot_demo" />
         <module name="bootDemo" />
         <module name="delegateAndtemplate" />
-        <module name="strategy-chain" />
+        <module name="sping_1.0" />
         <module name="mediation-interpreter" />
+        <module name="my_core_app" />
         <module name="iterator-command" />
-        <module name="gupaoedu-vip-spring-aop" />
-        <module name="spring_2.0" />
+        <module name="spring-boot-thread-demo" />
+        <module name="gupaoedu-vip-spring-annotation" />
         <module name="gupaoedu-vip-spring" />
-        <module name="adapterDemo" />
+        <module name="observer-visitor" />
+        <module name="spring_2.0" />
         <module name="dynamicProxyDemo" />
+        <module name="rpc_client" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapterDemo" target="1.8" />
+      <module name="server_api" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="adapterDemo" options="-parameters" />
       <module name="bootDemo" options="-parameters" />
       <module name="gupaoedu-vip-spring" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
       <module name="gupaoedu-vip-spring-annotation" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
       <module name="gupaoedu-vip-spring-aop" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
       <module name="gupaoedu-vip-spring-orm" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="my_spring_boot_demo" options="-parameters" />
       <module name="sping_1.0" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
+      <module name="spring-boot-thread-demo" options="-parameters" />
       <module name="spring_2.0" options="-verbose -bootclasspath F:/java/jdk1.8/jre/lib/rt.jar" />
       <module name="state-memorandum" options="-parameters" />
     </option>
